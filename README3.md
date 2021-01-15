@@ -10,3 +10,11 @@
 ### **Bricksquad Monopoly**
 
 ![alt text](https://media.customon.com/unsafe/600x600/img.customon.com//art/2/600/600/ffffff/42885/39d2e2d03a25f8cc3c1e615c8ac3452a.png.jpg)
+
+This is how you declare a varriable `const x = 3`
+
+
+```javascript
+const x = 3;
+console.log(x + 100)
+```

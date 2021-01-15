@@ -1,0 +1,3 @@
+Git status
+Git add
+Git commit -m "some message"
